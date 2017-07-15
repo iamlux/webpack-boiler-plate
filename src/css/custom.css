@@ -1,0 +1,10 @@
+.img_container {
+    overflow: hidden;
+}
+.img {
+    height: 300px;
+}
+.append_text {
+    font-weight: bold;
+    text-align: center;
+}

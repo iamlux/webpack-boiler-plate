@@ -1,0 +1,9 @@
+.DS_Store
+.vagrant
+/.tmp/
+/dist/
+/node_modules/
+.settings/
+.project
+.idea
+npm-debug.log
